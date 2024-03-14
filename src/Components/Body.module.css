@@ -1,0 +1,17 @@
+.container{
+      width: 50%;
+      position: absolute;
+      top: 15%;
+      left: 50%;
+      transform: translate(-50%);
+}
+.icons{
+      padding-bottom: 30px;
+}
+.icon{
+      margin: 10px;
+      font-size: 20px;
+}
+.title{
+      font-weight: 800;
+}
